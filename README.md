@@ -1,4 +1,4 @@
-# Relation of Korean black raspberry(복분자) and Weather☀️
+# Correlation of Korean black raspberry(복분자) and Weather☀️
 
 ### Description
 >#### 📀 `Datasets`
