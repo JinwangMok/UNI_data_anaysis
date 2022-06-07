@@ -16,5 +16,6 @@
 >- tqdm
 >- math
 > ---
-## [`📌Here is the Link for Preprocessing`](https://colab.research.google.com/drive/1knvqmepGtxcFVXDeA7AXdHiHZMaZr3tY#scrollTo=4iO_8HtZoMMt)
-## [`📌Here is the Link for DataAnalysis`](https://colab.research.google.com/drive/1yp1nZzreOTXOF0Rf5oVQhH89Ut6crOTw#scrollTo=GJ3YUzUopjqQ)
+[`📌Here is the Link for Preprocessing`](https://colab.research.google.com/drive/1knvqmepGtxcFVXDeA7AXdHiHZMaZr3tY#scrollTo=4iO_8HtZoMMt)
+
+[`📌Here is the Link for DataAnalysis`](https://colab.research.google.com/drive/1yp1nZzreOTXOF0Rf5oVQhH89Ut6crOTw#scrollTo=GJ3YUzUopjqQ)
